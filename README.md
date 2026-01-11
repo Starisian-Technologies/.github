@@ -1,3 +1,5 @@
+<img width="1280" height="640" alt="starisian-technologies" src="https://github.com/user-attachments/assets/65ce4128-3a38-46fb-8362-380eb9de9927" />
+
 # Starisian Technologies
 **Starisian Technologies develops ethical, scalable software for cultural preservation, education, and creative empowerment.**
 
